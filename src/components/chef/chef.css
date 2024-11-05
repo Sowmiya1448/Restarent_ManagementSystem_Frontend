@@ -1,0 +1,10 @@
+
+
+table.transparent-table, table.transparent-table th, table.transparent-table td {
+ 
+    background-color: rgba(0,0, 0,0.5); 
+     color:white;
+    font-weight: bold;
+  
+}
+

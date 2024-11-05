@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.order{
+     display: flex;
+}
+.cart{
+    margin-top: -25px;
+    background-color:lightblue;
+    border-radius: 5px;
+    padding: 20px;
+}
+.cart h3{
+    padding: 10px;
+}
+
+
