@@ -1,0 +1,18 @@
+.con{
+    position: relative;
+    width:70%;
+    left: 20%;
+    align-items: center;
+    justify-content: center;
+    
+    }
+
+    .cont{
+
+        position: relative;
+        width:30%;
+        left: 35%;
+        align-items: center;
+        justify-content: center;
+
+    }
